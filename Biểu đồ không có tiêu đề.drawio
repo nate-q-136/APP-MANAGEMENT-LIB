@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-16T01:12:19.341Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="y5BrSGVJUK0c-OWIJgyj" version="20.8.20" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-16T01:13:16.286Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="sHV_QZd841ko1xu_vBb2" version="20.8.20" type="github">
   <diagram name="Trang-1" id="1fvKQeITgAMp1NTGySb4">
     <mxGraphModel dx="2171" dy="2413" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -83,10 +83,7 @@
             <mxPoint x="475" y="-607" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="is1j8jJFaSuD51MKp72F-77" value="Quản lý" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="797" y="-600" width="30" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="is1j8jJFaSuD51MKp72F-78" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="is1j8jJFaSuD51MKp72F-64">
+        <mxCell id="is1j8jJFaSuD51MKp72F-78" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;startArrow=none;" edge="1" parent="1" source="is1j8jJFaSuD51MKp72F-77">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="660" y="-547" as="sourcePoint" />
             <mxPoint x="797" y="-580" as="targetPoint" />
@@ -134,6 +131,15 @@
         </mxCell>
         <mxCell id="is1j8jJFaSuD51MKp72F-87" value="Thanh toán bằng smartcard" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="350.5" y="-970" width="86.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="is1j8jJFaSuD51MKp72F-88" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="is1j8jJFaSuD51MKp72F-64" target="is1j8jJFaSuD51MKp72F-77">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="649" y="-452" as="sourcePoint" />
+            <mxPoint x="797" y="-580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="is1j8jJFaSuD51MKp72F-77" value="Quản lý" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="770" y="-600" width="30" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
